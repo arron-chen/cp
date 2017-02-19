@@ -1,0 +1,126 @@
+[ 2017-02-18T16:24:52+08:00 ] 127.0.0.1 /cp/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010264s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.063691s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 35 行.
+SQL:  select mg_id from manager  [ RunTime:0.001233s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.178791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.178950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.008981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009116s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012150s ]
+
+[ 2017-02-18T16:24:52+08:00 ] 127.0.0.1 /cp/index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000670s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 35 行.
+SQL:  select mg_id from manager  [ RunTime:0.000503s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049763s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000936s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001356s ]
+
+[ 2017-02-18T16:24:52+08:00 ] 127.0.0.1 /cp/index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000488s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 35 行.
+SQL:  select mg_id from manager  [ RunTime:0.000225s ]
+SQL: select * from manager where mg_id=1 [ RunTime:0.002172s ]
+SQL: select * from role where role_id=0 [ RunTime:0.002592s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Admin\Controller\IndexController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant mg_id - assumed 'mg_id' E:\PHPServer\www\cp\Application\Admin\Controller\IndexController.class.php 第 32 行.
+SQL: select * from auth where auth_level=0  [ RunTime:0.026093s ]
+NOTIC: [8] Use of undefined constant mg_id - assumed 'mg_id' E:\PHPServer\www\cp\Application\Admin\Controller\IndexController.class.php 第 42 行.
+SQL: select * from auth where auth_level=1  [ RunTime:0.000608s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 33 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 54 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044999s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001114s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001219s ]
+
+[ 2017-02-18T16:24:52+08:00 ] 127.0.0.1 /cp/index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000235s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 35 行.
+SQL:  select mg_id from manager  [ RunTime:0.000146s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000942s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001233s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001332s ]
+

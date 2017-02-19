@@ -1,0 +1,12 @@
+[ 2017-01-19T21:50:01+08:00 ] 127.0.0.1 /cp/index.php/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:User
+
+[ 2017-01-19T21:50:10+08:00 ] 127.0.0.1 /cp/index.php/user/hell
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+ERR: 无法加载模块:User
+

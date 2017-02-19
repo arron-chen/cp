@@ -1,0 +1,1476 @@
+[ 2017-02-03T22:35:50+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+NOTIC: [8] Undefined index: mg_id E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id= [ RunTime:0.004666s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=
+SQL:  select mg_id from manager  [ RunTime:0.726318s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040155s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-02-03T22:35:52+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+NOTIC: [8] Undefined index: mg_id E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id= [ RunTime:0.001116s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=
+SQL:  select mg_id from manager  [ RunTime:0.001704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-02-03T22:36:03+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] Undefined index: mg_id E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id= [ RunTime:0.000148s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=
+SQL:  select mg_id from manager  [ RunTime:0.000235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-02-03T22:36:05+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Undefined index: mg_id E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id= [ RunTime:0.000427s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=
+SQL:  select mg_id from manager  [ RunTime:0.000348s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000259s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-03T22:36:06+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+NOTIC: [8] Undefined index: mg_id E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id= [ RunTime:0.000311s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=
+SQL:  select mg_id from manager  [ RunTime:0.011491s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2017-02-03T22:36:19+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined index: mg_id E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 31 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id= [ RunTime:0.000315s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=
+SQL:  select mg_id from manager  [ RunTime:0.000261s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.054392s ]
+SQL: SELECT * FROM `manager` WHERE `mg_name` = 'admin' LIMIT 1   [ RunTime:0.000810s ]
+
+[ 2017-02-03T22:36:19+08:00 ] 127.0.0.1 /cp/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.112395s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000461s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000429s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-02-03T22:36:20+08:00 ] 127.0.0.1 /cp/index.php/Admin/Index/head.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000534s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000514s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041913s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000371s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-02-03T22:36:20+08:00 ] 127.0.0.1 /cp/index.php/Admin/Index/right.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000768s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000470s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-03T22:36:20+08:00 ] 127.0.0.1 /cp/index.php/Admin/Index/left.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000835s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000497s ]
+SQL: select * from manager where mg_id=1 [ RunTime:0.002036s ]
+SQL: select * from role where role_id=0 [ RunTime:0.001877s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Admin\Controller\IndexController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant mg_id - assumed 'mg_id' E:\PHPServer\www\cp\Application\Admin\Controller\IndexController.class.php 第 32 行.
+SQL: select * from auth where auth_level=0  [ RunTime:0.330713s ]
+NOTIC: [8] Use of undefined constant mg_id - assumed 'mg_id' E:\PHPServer\www\cp\Application\Admin\Controller\IndexController.class.php 第 42 行.
+SQL: select * from auth where auth_level=1  [ RunTime:0.000711s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 33 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 54 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 73 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\9e78eb414bd5ccefea74bfad4105e0be48c2d9c5.file.left.html.php 第 98 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-02-03T22:36:23+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000168s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000163s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.001379s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001872s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000295s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050948s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051012s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000405s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2017-02-03T22:36:25+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000408s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.002261s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.042032s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041087s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000378s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-02-03T22:36:26+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000255s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000130s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001541s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000202s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Application/Runtime/Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php E:\PHPServer\www\cp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Application/Runtime/Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php): No such file or directory E:\PHPServer\www\cp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.263013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.263060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000424s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-03T22:36:28+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000334s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000339s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.046279s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000640s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008233s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000297s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-02-03T22:36:28+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000358s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000302s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.047898s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001778s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000372s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008021s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-02-03T22:36:32+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000422s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000392s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001521s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-02-03T22:36:33+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000288s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000255s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001610s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000317s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-02-03T22:36:33+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000432s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000347s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001804s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000577s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000230s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-02-03T22:36:34+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000520s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.006267s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.002357s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000560s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000203s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000351s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-03T22:36:35+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000411s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001900s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000423s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000237s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-02-03T22:36:35+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000276s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.001772s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001736s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000400s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007883s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000224s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-03T22:36:36+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000330s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000298s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001898s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000401s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007158s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000231s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-02-03T22:36:36+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000365s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000228s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000620s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000193s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007042s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000220s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-02-03T22:36:37+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000211s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000193s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001667s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000235s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000252s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-02-03T22:36:37+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000507s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000381s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.001964s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001937s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.001356s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000199s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-02-03T22:36:42+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000392s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000361s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031131s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031215s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000378s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-02-03T22:36:43+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000161s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000159s ]
+ERR: 非法操作:showlist
+
+[ 2017-02-03T22:36:43+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000446s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000419s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000382s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006951s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-02-03T22:36:44+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000276s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000337s ]
+ERR: 非法操作:showlist
+
+[ 2017-02-03T22:36:45+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.001207s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000665s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007081s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007138s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000235s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000506s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-02-03T22:36:46+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000362s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000219s ]
+ERR: 非法操作:showlist
+
+[ 2017-02-03T22:36:46+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000409s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-02-03T22:36:47+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000453s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000364s ]
+ERR: 非法操作:showlist
+
+[ 2017-02-03T22:36:49+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000359s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000209s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000241s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-02-03T22:36:51+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000286s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000627s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008503s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-02-03T22:36:52+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000387s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001619s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.001054s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007044s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-02-03T22:36:52+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000424s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000374s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.001462s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000864s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.001504s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000902s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000238s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-02-03T22:36:53+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000799s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000359s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001256s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000613s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007197s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2017-02-03T22:36:53+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000420s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000817s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000529s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-03T22:36:56+08:00 ] 127.0.0.1 /cp/index.php/Admin/Order/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载控制器:Order
+
+[ 2017-02-03T22:36:56+08:00 ] 127.0.0.1 /cp/index.php/Admin/Order/print
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+ERR: 无法加载控制器:Order
+
+[ 2017-02-03T22:36:57+08:00 ] 127.0.0.1 /cp/index.php/Admin/Order/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+ERR: 无法加载控制器:Order
+
+[ 2017-02-03T22:36:58+08:00 ] 127.0.0.1 /cp/index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000416s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000361s ]
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.127109s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] filemtime(): stat failed for ./Application/Runtime/Cache\68afe65a8818454e48379564d0621bd9fb74f9b0.file.add.html.php E:\PHPServer\www\cp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_resource.php 第 683 行.
+NOTIC: [2] unlink(./Application/Runtime/Cache\68afe65a8818454e48379564d0621bd9fb74f9b0.file.add.html.php): No such file or directory E:\PHPServer\www\cp\ThinkPHP\Library\Vendor\Smarty\sysplugins\smarty_internal_write_file.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091792s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-02-03T22:36:58+08:00 ] 127.0.0.1 /cp/index.php/Admin/Goods/cate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000178s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000192s ]
+ERR: 非法操作:cate
+
+[ 2017-02-03T22:37:01+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/delete
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000448s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2017-02-03T22:37:01+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000471s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000483s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-02-03T22:37:02+08:00 ] 127.0.0.1 /cp/index.php/Admin/User/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000237s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000209s ]
+ERR: 非法操作:showlist
+
+[ 2017-02-03T22:37:03+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000246s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000155s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.044883s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000236s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000550s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000154s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-02-03T22:37:04+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000286s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000297s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.000714s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000528s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-02-03T22:37:05+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000211s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000216s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000755s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000249s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-02-03T22:37:06+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000397s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000377s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001010s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000611s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007474s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-03T22:37:06+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000144s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000211s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.000700s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000748s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000262s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000226s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-02-03T22:37:06+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.001272s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001144s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000661s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000208s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-02-03T22:37:07+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000355s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000346s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000862s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000707s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007680s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-02-03T22:37:07+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000436s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.000651s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-02-03T22:37:08+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000509s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.001431s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000787s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000523s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007191s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-03T22:37:10+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000344s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000090s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.000652s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000247s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-03T22:37:11+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000295s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000707s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000361s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007465s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000217s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-02-03T22:37:12+08:00 ] 127.0.0.1 /cp/index.php/Admin/Auth/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000417s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `auth` [ RunTime:0.001188s ]
+SQL: SELECT * FROM `auth` ORDER BY auth_path asc  [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\3dbce00f68e20dc9c0c2629330bb345f50a743c2.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007657s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000234s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-03T22:37:12+08:00 ] 127.0.0.1 /cp/index.php/Admin/Role/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000445s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000586s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\a6a0c8c9df21383bf17aff39d8d655747c29aa13.file.showlist.html.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008019s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-02-03T22:37:13+08:00 ] 127.0.0.1 /cp/index.php/Admin/Manager/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\PHPServer\www\cp\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: select role_auth_ac from manager a join role b on a.mg_role_id=b.role_id where a.mg_id=1 [ RunTime:0.000314s ]
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Component\AdminController.class.php 第 34 行.
+SQL:  select mg_id from manager  [ RunTime:0.000176s ]
+SQL: SHOW COLUMNS FROM `manager` [ RunTime:0.000690s ]
+SQL: SELECT * FROM `manager`  [ RunTime:0.000267s ]
+SQL: SHOW COLUMNS FROM `role` [ RunTime:0.000695s ]
+SQL: SELECT * FROM `role`  [ RunTime:0.000260s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 35 行.
+NOTIC: [8] Undefined offset: 0 E:\PHPServer\www\cp\Application\Runtime\Cache\f2fac5b42f3cb7cd7c5c421484a9f76fa094bb45.file.showlist.html.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009273s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009324s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000248s ]
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+

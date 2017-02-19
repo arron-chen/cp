@@ -1,0 +1,28 @@
+@charset "utf-8";
+/*重置样式*/
+body, textarea{font:12px/1.5 Tahoma,Arial,'宋体',sans-serif;color:#333;background-color:#FFF;}
+body.mainbg {background-color:#fff;}
+div.mainborder {width:1000px;border:solid 1px #D5D5D5;margin:15px auto;}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {margin:0px;padding:0px;}
+table tr td .row {padding-bottom:0px;}
+input, select, textarea, button{vertical-align:middle;}
+img{border:0px;}
+ul, ol{list-style:none;margin:0px;padding:0px;}
+li{list-style:none outside none;}
+
+
+/* 代码整理：懒人之家 www.lanrenzhijia.com */
+
+div.indexmaindiv{height:280px;margin:0px auto;width:1010px;}
+div.indexmaindiv1{margin-top:30px; overflow:hidden;}
+div.indexmaindiv1 div.playerdetail{width:172px;height:245px;background:#EDEDED;font-family:'微软雅黑';}
+div.indexmaindiv1 div.playerdetail div.detailimg{width:172px;height:124px;}
+div.indexmaindiv1 div.playerdetail div.detailimg img{width:172px;height:115px;}
+div.indexmaindiv1 div.playerdetail div.teanames{text-align:center;font-size:14px;margin-top:5px;color:#404040;}
+div.indexmaindiv1 div.playerdetail div.teadetail{width:156px;height:27px;margin:5px 8px;color:#666;}
+/*滚动*/
+div.maindiv1{float:left;width:937px;height:245px;overflow:hidden;position:relative;}
+div.maindiv1 ul{position:absolute;left:0;top:50px;}
+div.maindiv1 ul li{float:left;width:172px;height:245px;margin-left:13px;}
+
+/* 代码整理：懒人之家 www.lanrenzhijia.com */

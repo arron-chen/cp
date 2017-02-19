@@ -1,0 +1,65 @@
+[ 2017-02-02T09:30:55+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-02T09:30:59+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-02-02T09:31:58+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-02-02T09:31:59+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-02-02T09:32:00+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-02-02T09:32:00+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-02-02T09:32:01+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-02T10:56:14+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-02-02T10:56:14+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-02-02T10:56:15+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-02-02T10:57:35+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-02-02T10:57:36+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2017-02-02T10:59:13+08:00 ] 127.0.0.1 /cp/index.php/Index/__PUBLIC__/Index/images/logo1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
